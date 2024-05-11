@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently learning **Spring and Spring Boot**
 - 💻 I'm a Backend developer
+- 📫 How to reach me: nadaimam8@gmail.com
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ObgevbZr0zwGmnprnr5286Te1iECG-ct/view?usp=sharing)
 - 🎓 I'm a Computer Science graduate (graduated in May 2023)
 
