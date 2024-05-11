@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Emam</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A dedicated Software Engineer based in Egypt.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamehleon&label=Profile%20views&color=0e75b6&style=flat" alt="chamehleon" /> </p>
 
