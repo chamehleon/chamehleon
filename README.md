@@ -6,7 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamehleon" alt="chamehleon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+</p>
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ObgevbZr0zwGmnprnr5286Te1iECG-ct/view?usp=sharing)
