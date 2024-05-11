@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
-- 📄 Know about my experiences [**[Resume]**(https://drive.google.com/file/d/1ObgevbZr0zwGmnprnr5286Te1iECG-ct/view?usp=sharing)](**[Resume]**(https://drive.google.com/file/d/1ObgevbZr0zwGmnprnr5286Te1iECG-ct/view?usp=sharing))
+- 📄 Know about my experiences **[Resume]**(https://drive.google.com/file/d/1ObgevbZr0zwGmnprnr5286Te1iECG-ct/view?usp=sharing)](**[Resume]**(https://drive.google.com/file/d/1ObgevbZr0zwGmnprnr5286Te1iECG-ct/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
