@@ -8,11 +8,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 
-- 🌱 I’m currently learning **Spring and Spring Boot**
+
 - 💻 I'm a Backend developer
+- 🎓 I'm a Computer Science graduate (graduated in May 2023)
+- 🌱 I’m currently learning **Spring and Spring Boot**
 - 📫 How to reach me: nadaimam8@gmail.com
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ObgevbZr0zwGmnprnr5286Te1iECG-ct/view?usp=sharing)
-- 🎓 I'm a Computer Science graduate (graduated in May 2023)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
